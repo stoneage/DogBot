@@ -2,11 +2,7 @@
     "BOT": "Hi there!\nI’m the personal bot of Esther, a Product Marketer from San Francisco.\n![esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
     "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
-    "I LOVE YOU": "Awh, shucks! I love you too!",
-    "CONNECT ME": "",
-    "DISCONNECT": "Roger that, EstherBot is back."
-}
-"HELLO": "Hey, I'm so glad you set the Koda Lyla DogBot up!",
+    "HELLO-2": "Hey, I'm so glad you set the Koda Lyla DogBot up!",
     "TWITTER": "Let's tweet @Stoneage so he knows you're setting a bot up. Here's a tweet that's ready to go: https://goo.gl/UxVtA",
     "I LOVE YOU": "Awh, shucks! I love you too!",
      "KODA": "Koda is a 8 year old Boston Terrier. He loves squirrels, squeaky toys, all other dogs and people. And he listens! Command wise he'll respond to sit, stay, come, lay down, shake, high five, drop it",
@@ -17,3 +13,7 @@
     "SLEEPING": "Koda and Lyla are fine in the cage and bed provided at night. Koda is quite the snorer, so you might not want to put their beds right next to yours. Both dogs are early risers (especially Lyla), but they can hold it so don’t feel obligated to take them out if they wake up at 6 a.m.",
     "EMERGENCY": "They have records on file. VCA Wilshire Animal Hospital http://www.vcahospitals.com/wilshire. Phone: 310-828-4587, In case of emergency:VCA Magnolia Animal Hospital 2201 34th Ave W, Seattle, WA 98199 206-285-0515", 
     "OUTSIDE": "Bow wow wow yippi yo yippy yay",
+    "CONNECT ME": "",
+    "DISCONNECT": "Roger that, dogbit is back."
+}
+
